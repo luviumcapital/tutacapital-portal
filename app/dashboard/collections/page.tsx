@@ -7,7 +7,7 @@ const NAV = [
   { label:"Dealer Pods", icon:Users, href:"/dashboard/pods" },
   { section:"FINANCE" },
   { label:"Floor Plans", icon:CreditCard, href:"/dashboard/floor-plans" },
-  { label:"Surety Pool", icon:ShieldAlert, href:"/dashboard/surety" },
+  { label:"Surety Pool", icon:ShieldAlert, href:"/dashboard/surety" },h
   { label:"Collections", icon:FileText, href:"/dashboard/collections" },
   { section:"STOCK" },
   { label:"Inventory", icon:Package, href:"/dashboard/inventory" },
